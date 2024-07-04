@@ -10,3 +10,12 @@ Here I created the man for my scene, I also textured to man using principled BSD
 ![image](https://github.com/Da-rab/Blender-Project-1/assets/174678233/f273f228-3be2-422d-88ba-bd4312c7e213)
 
 ![image](https://github.com/Da-rab/Blender-Project-1/assets/174678233/ee6cbde9-b60d-40d9-8428-b9a777c5a34f)
+
+## session #2
+Here I modelled the monster for my scene, making use of the mirror modifier and edit tool. I also used an emission texture to give a red glow to the monster's eyes.
+
+![image](https://github.com/Da-rab/Blender-Project-1/assets/174678233/9fca573d-46f7-4ac9-98f8-0cce3e67a2ee)
+
+![image](https://github.com/Da-rab/Blender-Project-1/assets/174678233/9d6c4dde-d185-4f97-8253-ac736bb9ac03)
+
+![image](https://github.com/Da-rab/Blender-Project-1/assets/174678233/7441272a-8e34-413e-abb7-f3a39c55c4b5)
