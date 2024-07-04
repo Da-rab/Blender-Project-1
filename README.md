@@ -28,3 +28,8 @@ Since I was not satisfied with the design of the monster and noticed that it was
 ![alt text](https://github.com/Da-rab/images/blob/889f6bd217ff374727ef91a3a005ad4a1060b84e/Capture1.PNG)
 
 ![image](https://github.com/Da-rab/images/blob/889f6bd217ff374727ef91a3a005ad4a1060b84e/Capture2.PNG)
+
+## session #4
+Now that I have completed the two main characters of my scene, I went on to work on the environment of the scene by adding buildings, a road, and lamp posts.
+
+![image](https://github.com/Da-rab/images/blob/d7c0290be315238fcc84a526d0a6c6e5dcf8c0f1/Road%2Cbuildings%2Clamps.PNG)
