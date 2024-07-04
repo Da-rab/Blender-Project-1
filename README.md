@@ -1,4 +1,4 @@
-![Capture](https://github.com/Da-rab/Blender-Project-1/assets/174678233/2fbb80fb-3171-433a-8312-94d798df81c8)# Blender-Project-1
+# Blender-Project-1
 In this project, I take my first steps into the 3D modelling software known as blender and learn the basics.
 
 # sesssions
@@ -25,3 +25,4 @@ Since I was not satisfied with the design of the monster and noticed that it was
 
 ![Capture](https://github.com/Da-rab/Blender-Project-1/assets/174678233/6334951d-f43a-469f-a03c-e8016eca9a7d)
 
+![Uploading Capture1.PNG…]()
