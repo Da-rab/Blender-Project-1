@@ -25,4 +25,6 @@ Since I was not satisfied with the design of the monster and noticed that it was
 
 ![Capture](https://github.com/Da-rab/Blender-Project-1/assets/174678233/6334951d-f43a-469f-a03c-e8016eca9a7d)
 
-![Uploading Capture1.PNG…]()
+![alt text](https://github.com/Da-rab/images/blob/889f6bd217ff374727ef91a3a005ad4a1060b84e/Capture1.PNG)
+
+![image](https://github.com/Da-rab/images/blob/889f6bd217ff374727ef91a3a005ad4a1060b84e/Capture2.PNG)
